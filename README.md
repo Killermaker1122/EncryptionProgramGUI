@@ -22,6 +22,9 @@ Ensure you have Java installed on your system.
 Contributions:
 Contributions and suggestions for improvement are welcome! Feel free to fork the repository, make changes, and create a pull request.
 
+License:
+This project is licensed under the MIT License.
+
 Author:
 [Levin Torregosa]
 
